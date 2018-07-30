@@ -1,0 +1,22 @@
+PODS:
+  - BBTools (0.1.1):
+    - MGJRouter
+  - MGJRouter (0.10.0)
+
+DEPENDENCIES:
+  - BBTools
+  - MGJRouter
+
+SPEC REPOS:
+  https://github.com/baiwanlu/BBSpecs.git:
+    - BBTools
+  https://github.com/cocoapods/specs.git:
+    - MGJRouter
+
+SPEC CHECKSUMS:
+  BBTools: 1513e23f950a97b95d6fd8032e1538f6b7fefea6
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+
+PODFILE CHECKSUM: b732d051cd38ea369a6b837b6428716cd0e18ac4
+
+COCOAPODS: 1.5.3
